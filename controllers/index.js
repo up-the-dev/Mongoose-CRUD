@@ -1,0 +1,5 @@
+export { default as registerController } from './auth/registration/registerController.js'
+export { default as loginController } from './auth/login/loginController.js'
+export { default as profileController } from './profile/profileController'
+export { default as refreshTokenController } from './auth/refreshTokenController'
+export { default as addressController } from './profile/addressController'
